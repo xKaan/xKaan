@@ -7,7 +7,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Back-End -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
